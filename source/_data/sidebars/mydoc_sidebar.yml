@@ -1,0 +1,59 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: NDE doc
+  version: 3.0.1
+  folders:
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Introduction
+      url: /nde_intro.html
+      output: web, pdf
+
+    - title: Supported features
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: About the nde group
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: Support
+      url: /mydoc_support.html
+      output: web, pdf
+
+  - title: Release Notes
+    output: web, pdf
+    folderitems:
+
+    - title: 6.0 Release notes
+      url: /mydoc_release_notes_60.html
+      output: web, pdf
+
+    - title: 5.0 Release notes
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+  - title: Special layouts
+    output: web, pdf
+
+    folderitems:
+    - title: Knowledge-base layout
+      url: /mydoc_kb_layout.html
+      output: web, pdf
+
+    - title: Glossary layout
+      url: /mydoc_glossary.html
+      output: web, pdf
+
+    - title: FAQ layout
+      url: /mydoc_faq_layout.html
+      output: web, pdf
+
+    - title: Shuffle layout
+      url: /mydoc_shuffle.html
+      output: web, pdf
+
