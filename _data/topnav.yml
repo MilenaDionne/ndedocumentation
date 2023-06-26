@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/mslFromQc/NDEPublic
+      external_url: https://github.com/MilenaDionne/NDEGitHubPage
     - title: News
       url: /news
 
