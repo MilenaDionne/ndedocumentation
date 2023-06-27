@@ -1,7 +1,7 @@
 ---
-title: Introduction
+title: Overview
 sidebar: mydoc_sidebar
-permalink: nde_intro.html
+permalink: index.html
 folder: mydoc
 ---
 
@@ -30,10 +30,10 @@ Internal file hierarchy view.
 │   └── AppName
 │       └── Custom Datasets
 ```
-### Metadata
+#### Metadata
 Interpretation of the data can be achieved by reading a JSON structure which can be accessed at the following dataset path: /Domain/Setup.
 
-### Data
+#### Data
 * Any shared data types can be read or write from /Domain/DataGroups path.
 * Datasets can be associated with a confguration but his basic interpretation is independent.
 * Standard JSON objects are defined to describe dataset properties.
@@ -98,7 +98,7 @@ JSON Group object example containing dataset and a phased array configuration.
 ```
 
 
-### Standard objects
+#### Standard objects
 
 | Root objects  | Descriptions                                         |
 |------------------------| -----------------------------------------------------|
@@ -130,7 +130,7 @@ JSON Group object example containing dataset and a phased array configuration.
 | pci | ... |
 ---
 
-## Documentation 
+### Documentation 
 
 
 <a href="https://globalscientificsolutions.sharepoint.com/:w:/t/PASolutions322/EX2yNbazQ7lKrHWMGwn7bl0BGZLyq_Uj5knynBCjOROF9g?e=ZoJM2W" target="_blank">Plate and weld general conventions (short documentation)</a>
@@ -157,10 +157,10 @@ JSON Group object example containing dataset and a phased array configuration.
 ### Versioning
 Versioning...
 
-### Validation
+#### Validation
 Validation...
 
-### Compatibility
+#### Compatibility
 Compatibility...
 
 ---
@@ -171,19 +171,19 @@ Integrity, authenticity, confidentiality...
 ---
 
 ### Examples
-### Minimum required
+#### Minimum required
 How to create a simple .nde file.
 TODO
 
 ---
 
-## Changelog
+### Changelog
 All notable changes to the format will be documented in this file.
 It is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-### [Unreleased]
+#### [Unreleased]
 
-### [3.0.0-Beta] - 2022-12-01
+#### [3.0.0-Beta] - 2022-12-01
 #### Added
 - [EAB] Schema version 3.0.0-Beta + compatibility code to upgrade from previous version.
 - [1] New *dataset* object including an uniform description of each axes.
