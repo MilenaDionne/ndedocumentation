@@ -4,9 +4,9 @@ tags: [getting_started]
 keywords: questions, contact, support
 last_updated: July 3, 2016
 summary: "Contact me for any support issues."
-sidebar: mydoc_sidebar
-permalink: mydoc_support.html
-folder: mydoc
+sidebar: ndedoc_sidebar
+permalink: support.html
+folder: ndedoc
 topnav: topnav
 ---
 

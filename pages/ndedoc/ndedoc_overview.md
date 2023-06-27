@@ -1,8 +1,8 @@
 ---
 title: Overview
-sidebar: mydoc_sidebar
+sidebar: ndedoc_sidebar
 permalink: index.html
-folder: mydoc
+folder: ndedoc
 ---
 
 Mission statement
