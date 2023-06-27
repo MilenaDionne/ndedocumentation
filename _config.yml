@@ -1,6 +1,6 @@
 title: NDE documentation
 
-repository: milenadionne/NDEGitHubPage
+repository: milenadionne/ndedocumentation
 
 topnav_title: NDE documentation
 # this appears on the top navigation bar next to the home button
@@ -16,8 +16,8 @@ company_name: Evident Scientific
 description: >- # this means to ignore newlines until "baseurl:"
   The aim of this project is to share NDT data between multiple stakeholders. 
   Data are stored using HDF5 file format combined to a JSON text format to describe the metadata associated.
-baseurl: "NDEGitHubPage" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://milenadionne.github.io/ndedocumentation" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  milenadionne
 

@@ -139,18 +139,18 @@ JSON Group object example containing dataset and a phased array configuration.
 <a href="https://olympusssa.sharepoint.com/:w:/r/sites/KlB/Shared%20Documents/TW/Unified%20File%20Format/Unified%20File%20Format%20general%20conventions.docx?d=w00b5672e7bbd466a92128bafd94ad257&csf=1&web=1&e=35tfA3" target="_blank">General conventions</a>
 
 <a href="https://globalscientificsolutions-my.sharepoint.com/:w:/g/personal/jonathan_cote_evidentscientific_com/EQUpcALjWgpEn5VTaHXJ-EwBWEQiKwElMWDMCBVjQZYp1w?e=Gdi7Ry&ovuser=e6d7ba17-4378-433f-96fa-a48c4590ca82%2Ceric.aubin%40olympus-ossa.com&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjEwMjgwNzIwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">Universal File Format</a>
-
+<img src="{{page.url | prepend: site.url}}images/Coordinate2.png" alt="Untitled" />
  
-| ![Image](./documents/Coordinate1.png) | ![Image](./documents/Coordinate2.png) | ![Image](./documents/Coordinate3.png) |
+| ![Image](./images/Coordinate1.png) | ![Image](./images/Coordinate2.png) | ![Image](./images/Coordinate3.png) |
 | - | - |- |
 
-| ![Image](./documents/AxisReferential-PlateWeld_2Probres.png) |
+| ![Image](./images/AxisReferential-PlateWeld_2Probres.png) |
 | -
 
-| ![Image](./documents/AxisReferential-Wedge_Elements_and_Beam-PAexample.png) | ![Image](./documents/AxisReferential-Wedge_SkewAngle.png) |
+| ![Image](./images/AxisReferential-Wedge_Elements_and_Beam-PAexample.png) | ![Image](./images/AxisReferential-Wedge_SkewAngle.png) |
 | - | -
 
-| ![Image](./documents/Axes-use-cases.png) |
+| ![Image](./images/Axes-use-cases.png) |
 | - 
 
 ---
