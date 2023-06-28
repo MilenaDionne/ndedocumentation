@@ -3,7 +3,7 @@ title: Supported features
 tags:
   - getting_started
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "July 16, 2016"
+last_updated: "June 28, 2023"
 summary: "If you're not sure whether Jekyll and this theme will support your requirements, this list provides a semi-comprehensive overview of available features."
 published: true
 sidebar: ndedoc_sidebar

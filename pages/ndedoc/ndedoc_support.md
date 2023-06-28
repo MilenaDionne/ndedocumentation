@@ -2,7 +2,7 @@
 title: Support
 tags: [getting_started]
 keywords: questions, contact, support
-last_updated: July 3, 2016
+last_updated: June 28, 2023
 summary: "Contact me for any support issues."
 sidebar: ndedoc_sidebar
 permalink: support.html

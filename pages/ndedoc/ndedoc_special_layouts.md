@@ -2,7 +2,7 @@
 title: Special layouts overview
 tags: [special_layouts]
 keywords: layouts, information design, presentation
-last_updated: July 3, 2016
+last_updated: June 28, 2023
 summary: "This theme has a few special layouts. Special layouts include the JS files they need directly in the page. The JavaScript for each special layout does not load by default for every page in the site."
 sidebar: ndedoc_sidebar
 permalink: special_layouts.html

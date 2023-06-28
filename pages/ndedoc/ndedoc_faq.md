@@ -4,7 +4,7 @@ permalink: faq_layout.html
 sidebar: ndedoc_sidebar
 tags: [special_layouts]
 keywords: frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse
-last_updated: November 30, 2015
+last_updated: June 28, 2023
 summary: "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."
 toc: false
 folder: ndedoc
