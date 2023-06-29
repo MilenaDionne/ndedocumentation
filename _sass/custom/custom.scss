@@ -52,12 +52,14 @@
     margin-top: 0;
     margin-bottom: 0;
     list-style: none;
+    box-sizing: border-box;
   
     .nav-list-item {
       @include fs-6;
   
       position: relative;
       margin: 0;
+      box-sizing: border-box;
   
       @include mq(md) {
         @include fs-4;
@@ -113,6 +115,7 @@
   
       .nav-list-expander {
         position: absolute;
+        box-sizing: border-box;
         @if $nav-list-expander-right {
           right: 0;
         }

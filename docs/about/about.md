@@ -142,16 +142,16 @@ JSON Group object example containing dataset and a phased array configuration.
 <a href="https://globalscientificsolutions-my.sharepoint.com/:w:/g/personal/jonathan_cote_evidentscientific_com/EQUpcALjWgpEn5VTaHXJ-EwBWEQiKwElMWDMCBVjQZYp1w?e=Gdi7Ry&ovuser=e6d7ba17-4378-433f-96fa-a48c4590ca82%2Ceric.aubin%40olympus-ossa.com&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjEwMjgwNzIwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">Universal File Format</a>
 
  
-| ![Image](./images/Coordinate1.png) | ![Image](./images/Coordinate2.png) | ![Image](./images/Coordinate3.png) |
+| ![Image](./assets/images/Coordinate1.png) | ![Image](./assets/images/Coordinate2.png) | ![Image](./assets/images/Coordinate3.png) |
 | - | - |- |
 
-| ![Image](./images/AxisReferential-PlateWeld_2Probres.png) |
+| ![Image](./assets/images/AxisReferential-PlateWeld_2Probres.png) |
 | -
 
-| ![Image](./images/AxisReferential-Wedge_Elements_and_Beam-PAexample.png) | ![Image](./images/AxisReferential-Wedge_SkewAngle.png) |
+| ![Image](./assets/images/AxisReferential-Wedge_Elements_and_Beam-PAexample.png) | ![Image](./assets/images/AxisReferential-Wedge_SkewAngle.png) |
 | - | -
 
-| ![Image](./images/Axes-use-cases.png) |
+| ![Image](./assets/images/Axes-use-cases.png) |
 | - 
 
 ---
