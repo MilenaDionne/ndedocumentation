@@ -1,14 +1,8 @@
-FROM jekyll/builder
+FROM ruby:2.7
 
-WORKDIR /tmp
-ADD Gemfile /tmp/
-ADD Gemfile.lock /tmp/
-RUN bundle install
+WORKDIR /usr/src/app
 
-FROM jekyll/jekyll
+COPY Gemfile ./
+RUN gem install bundler && bundle install
 
-VOLUME /src
 EXPOSE 4000
-
-WORKDIR /src
-ENTRYPOINT ["jekyll", "serve", "--livereload", "-H", "0.0.0.0"]

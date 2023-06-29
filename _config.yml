@@ -1,89 +1,16 @@
-title: NDE documentation
+title: "NDE documentation"
 
-repository: milenadionne/ndedocumentation
-
-topnav_title: NDE documentation
-# this appears on the top navigation bar next to the home button
+company_name: Evident Scientific
 
 email: nde_support@evidentscientific.com
 
-site_title: NDE documentation
-# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+theme: just-the-docs
 
-company_name: Evident Scientific
-# this appears in the footer
+# Aux links for the upper right navigation
+aux_links:
+  "nde doc on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
 
-description: >- # this means to ignore newlines until "baseurl:"
-  The aim of this project is to share NDT data between multiple stakeholders. 
-  Data are stored using HDF5 file format combined to a JSON text format to describe the metadata associated.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://milenadionne.github.io/ndedocumentation" # the base hostname & protocol for your site, e.g. http://example.com
-
-github_username:  milenadionne
-
-feedback_email: nde_support@evidentscientific.com
-
-exclude:
-  - .idea/
-  - .gitignore
-  - vendor
-
-  # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-# these are the files and directories that jekyll will exclude from the build
-
-# Build settings
-plugins:
-  - jekyll-feed
-
-highlighter: rouge
-# library used for syntax highlighting
-
-markdown: kramdown
-kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
- syntax_highlighter: rouge
-
-collections:
-  tooltips:
-    output: false
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      comments: false
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
-      topnav: topnav
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: false
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
-      topnav: topnav
-
-# these are defaults used for the frontmatter for these file types
-
-sidebars:
-- ndedoc_sidebar
-
-github: [metadata]
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
