@@ -3,7 +3,7 @@ layout: default
 title: About the .nde format 
 nav_order: 1
 has_children: true
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "NDE documentation of Evident Scientific file format. Data are stored using HDF5 file format combined to a JSON text format to describe the metadata associated."
 permalink: /
 ---
 
