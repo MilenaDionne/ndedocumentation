@@ -93,7 +93,7 @@ docker-compose up
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The site is using the theme just-the-docs as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 
 
