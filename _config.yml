@@ -11,8 +11,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
 
-repository: MilenaDionne/ndedocumentation
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:
