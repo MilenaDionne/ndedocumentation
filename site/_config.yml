@@ -1,4 +1,4 @@
-title: <i class="icon"><img src="/ndedocumentation/assets/images/evidenticone.png"></i>&nbsp; NDE documentation
+title: <i class="icon"><img src="/NDE_Open_File_Format/assets/images/evidenticone.png"></i>&nbsp; NDE documentation
 
 favicon_ico: "/assets/images/evidenticone.png"
 
@@ -11,13 +11,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
 
-repository: MilenaDionne/ndedocumentation
+repository: Evident-Industrial/NDE_Open_File_Format
 remote_theme: just-the-docs/just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:
   "nde doc on GitHub":
-    - "//github.com/MilenaDionne/ndedocumentation" 
+    - "//github.com/Evident-Industrial/NDE_Open_File_Format" 
 
 aux_links_new_tab: true
 
